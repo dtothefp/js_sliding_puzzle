@@ -1,0 +1,21 @@
+/* ===============
+   =GLOBAL SETTINGS 
+   =============== */
+
+* {
+  box-sizing: border-box;
+}
+
+#container {
+  width: 600px;
+  margin: 20px auto;
+}
+
+.row div {
+  float: left;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  border: 1px solid #000;
+}
+
